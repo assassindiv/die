@@ -43,7 +43,4 @@ http://127.0.0.1:5000
 3. Click one algorithm button or `Run All Algorithms`.
 4. View predicted disease and model accuracy cards on the right.
 
-## Deployment
 
-This Flask app cannot be deployed on GitHub Pages (GitHub Pages is static only).
-Use a Python host such as Render, Railway, or Hugging Face Spaces for deployment.
